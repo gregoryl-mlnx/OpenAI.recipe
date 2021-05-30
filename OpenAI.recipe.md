@@ -79,7 +79,7 @@ unmanaged_switches_interval = -1
 periodic_discovery_interval = 30
 
 # timeout for ibdiagnet run time (in seconds)
-ibdiagnet_timeout = 600
+ibdiagnet_timeout = 3600
 
 
 [Sharp]
